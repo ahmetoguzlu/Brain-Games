@@ -53,7 +53,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\CardMain.cs" />
+     <Compile Include="Assets\Prefabs\CardMain.cs" />
  <Reference Include="UnityEditor.StandardEvents">
  <HintPath>C:/Users/Critter/Desktop/Brain-Games/Brain Games/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
